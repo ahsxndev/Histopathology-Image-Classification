@@ -196,3 +196,12 @@ with tab2:
     * Each image is annotated with a binary label indicating the presence of metastatic tissue.
     * The challenge is that the metastatic tissue might only occupy a small portion of the central region of the patch.
     """)
+
+# Author footer
+st.divider()
+st.markdown("""
+<div style="text-align: center; opacity: 0.7; padding: 10px;">
+    Built by <b>Ahsan</b> •
+    <a href="https://github.com/ahsxndev" target="_blank" style="color: #58a6ff; text-decoration: none;">GitHub: ahsxndev</a>
+</div>
+""", unsafe_allow_html=True)

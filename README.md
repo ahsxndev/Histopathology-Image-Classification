@@ -1,7 +1,5 @@
 # Histopathology Image Classification | CNN & Grad-CAM
 
-Deployed link - [🔗](https://histopathology-image-classification-ml.streamlit.app)
-
 *"That which is measured, improves." – Karl Pearson*
 
 This repository demonstrates a Convolutional Neural Network (CNN) model for **histopathology image classification**, trained on the **PatchCamelyon (PCam) dataset**. The goal is to classify small image patches of lymph node tissue as **tumor (metastatic)** or **normal**.
@@ -39,7 +37,7 @@ This repository demonstrates a Convolutional Neural Network (CNN) model for **hi
 
 ```bash
 # Clone the repository
-git clone https://github.com/BleeGleeWee/Histopathology-Image-Classification.git
+git clone https://github.com/ahsxndev/Histopathology-Image-Classification.git
 cd Histopathology-Image-Classification
 
 # Create a virtual environment
@@ -146,7 +144,12 @@ Histopathology-Image-Classification/
 
 2. Ehteshami Bejnordi et al. (2017). *Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer.* JAMA, 318(22), 2199–2210. doi:jama.2017.14585
 
+---
 
+## **Author**
+
+Built by **Ahsan**
+🔗 GitHub: [ahsxndev](https://github.com/ahsxndev)
 
 ---
 
