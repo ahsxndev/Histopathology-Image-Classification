@@ -16,6 +16,10 @@ env/
 data/*.h5
 data/*.gz
 
+# Trained model weights (too large for git, host externally)
+models/*.h5
+histopath_model.h5
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -25,15 +29,6 @@ Thumbs.db
 *.tmp
 *.bak
 
-# PyCharm / VSCode settings
+# IDE settings
 .idea/
-
-
-histopath_model.h5
-*.h5
-
 .vscode/
-
-# Output images or plots (optional)
-images/*.png
-images/*.jpg
